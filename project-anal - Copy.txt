@@ -6,3 +6,5 @@ ast-ast.literal_eval( converts string to list)
 sklearn.feature_extraction.text - CountVectorizer(used for bow)
 sklearn.metrics.pairwise - cosine_similarity(distance between vectors) 1 if both are near 
 enumerate - returns tuple with index values
+
+dummy used for catogorical values
